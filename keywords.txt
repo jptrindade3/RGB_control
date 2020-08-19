@@ -1,0 +1,4 @@
+RGBctrl		KEYWORD1
+RGB_test	KEYWORD2
+blink_white 	KEYWORD2
+RGB_classic 	KEYWORD2
